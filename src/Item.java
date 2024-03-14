@@ -1,4 +1,4 @@
-public abstract class Product {
+public abstract class item {
     public String name;
     private String description;
     protected String ID;
